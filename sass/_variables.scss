@@ -1,7 +1,7 @@
-$serif-primary: "Bitter", "Inconsolata";
-$serif-secondary: "Bitter", "Inconsolata";
-$sans-serif: "Bitter", "Inconsolata";
-$monospaced: Menlo, Monaco, monospace !default;
+$serif-primary: "Source Serif 4";
+$serif-secondary: "Source Serif 4";
+$sans-serif: "Inter";
+$monospaced: "Source Code Pro" !default;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
